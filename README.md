@@ -66,18 +66,100 @@ I'm **MD Tufaful Ambia**, a **Full-Stack Web & Mobile App Developer** focused on
 
 ### Tech Stack & Tools
 
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,dart,py,php,js,ts,html,css,react,nextjs,tailwind,flutter,nodejs,express,laravel,vite,npm,mongodb,mysql,postgres,sqlite,supabase,firebase,androidstudio,git,github,vscode&perline=10" alt="Tech Stack Icons" />
-</a>
-
-</div>
-
-<br />
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Programming Languages</h4>
+      <p>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript (ES6+)"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" /></a>
+        <a href="https://dart.dev/" target="_blank" title="Dart"><img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart" /></a>
+        <a href="https://www.java.com/" target="_blank" title="Java"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /></a>
+        <a href="https://kotlinlang.org/" target="_blank" title="Kotlin"><img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" /></a>
+        <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" /></a>
+        <a href="https://www.php.net/" target="_blank" title="PHP"><img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" /></a>
+        <a href="https://en.cppreference.com/w/c" target="_blank" title="C"><img src="https://skillicons.dev/icons?i=c" height="40" alt="C" /></a>
+        <a href="https://isocpp.org/" target="_blank" title="C++"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /></a>
+      </p>
+      <sub><code>JS/TS</code> • <code>Dart</code> • <code>Java/Kotlin</code> • <code>Python</code> • <code>PHP</code> • <code>C/C++</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Web Frontend &amp; Backend</h4>
+      <p>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5"><img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3"><img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" /></a>
+        <a href="https://react.dev/" target="_blank" title="React"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" /></a>
+        <a href="https://nextjs.org/" target="_blank" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" /></a>
+        <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" /></a>
+        <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" /></a>
+        <a href="https://expressjs.com/" target="_blank" title="Express.js"><img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" /></a>
+        <a href="https://laravel.com/" target="_blank" title="Laravel"><img src="https://skillicons.dev/icons?i=laravel" height="40" alt="Laravel" /></a>
+      </p>
+      <sub><code>React</code> • <code>Next.js</code> • <code>Tailwind</code> • <code>Node.js</code> • <code>Express</code> • <code>Laravel</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 Mobile App Development</h4>
+      <p>
+        <a href="https://flutter.dev/" target="_blank" title="Flutter"><img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter" /></a>
+        <a href="https://reactnative.dev/" target="_blank" title="React Native"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native" /></a>
+        <a href="https://developer.android.com/" target="_blank" title="Android"><img src="https://skillicons.dev/icons?i=android" height="40" alt="Android" /></a>
+        <a href="https://kotlinlang.org/" target="_blank" title="Kotlin for Android"><img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" /></a>
+        <a href="https://www.java.com/" target="_blank" title="Java for Android"><img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" /></a>
+        <a href="https://developer.android.com/studio" target="_blank" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" /></a>
+      </p>
+      <sub><code>Flutter</code> • <code>React Native</code> • <code>Native Android (Kotlin / Java)</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗄️ Databases &amp; Offline Storage</h4>
+      <p>
+        <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" /></a>
+        <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /></a>
+        <a href="https://www.sqlite.org/" target="_blank" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite" /></a>
+        <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" /></a>
+        <a href="https://supabase.com/" target="_blank" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" /></a>
+        <a href="https://firebase.google.com/" target="_blank" title="Firebase &amp; Firestore"><img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" /></a>
+      </p>
+      <sub>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API" target="_blank" title="IndexedDB Offline Storage">
+          <img src="https://img.shields.io/badge/IndexedDB-4F46E5?style=flat-square&logo=databricks&logoColor=white" alt="IndexedDB" />
+        </a>
+        &nbsp;<code>SQL</code> • <code>NoSQL</code> • <code>Offline-First</code>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Architecture &amp; Capabilities</h4>
+      <p>
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
+        <img src="https://img.shields.io/badge/Offline--First_Sync-6366F1?style=flat-square" alt="Offline-First" />
+        <img src="https://img.shields.io/badge/Service_Workers-10B981?style=flat-square" alt="Service Workers" />
+        <img src="https://img.shields.io/badge/REST_APIs-1E293B?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+        <img src="https://img.shields.io/badge/Bilingual_UI_(EN%2FBN)-334155?style=flat-square" alt="Bilingual UI" />
+      </p>
+      <sub><code>Progressive Web Apps</code> • <code>Cloud Sync</code> • <code>Responsive Design</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ Build, Tools &amp; Workflow</h4>
+      <p>
+        <a href="https://vite.dev/" target="_blank" title="Vite"><img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" /></a>
+        <a href="https://www.npmjs.com/" target="_blank" title="npm"><img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm" /></a>
+        <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /></a>
+        <a href="https://github.com/" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
+        <a href="https://code.visualstudio.com/" target="_blank" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" /></a>
+      </p>
+      <sub>
+        <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+        <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
+      </sub>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><strong>🔍 Click to Expand Detailed Tech Stack Breakdown (Languages, Web, Mobile, SQL/NoSQL &amp; Tools)</strong></summary>
+<summary><strong>📋 Click to View Full Badge Matrix (Text + Badges)</strong></summary>
 
 <br />
 
@@ -87,8 +169,7 @@ I'm **MD Tufaful Ambia**, a **Full-Stack Web & Mobile App Developer** focused on
 | **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
 | **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin_Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java_Android-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | **Databases (SQL & NoSQL)** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase_%2F_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![IndexedDB](https://img.shields.io/badge/IndexedDB-4F46E5?style=flat-square&logo=databricks&logoColor=white) |
-| **Architecture & PWA** | ![PWA](https://img.shields.io/badge/Progressive_Web_Apps-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Service Workers](https://img.shields.io/badge/Service_Workers-10B981?style=flat-square) ![Offline-First](https://img.shields.io/badge/Offline--First_Sync-6366F1?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-1E293B?style=flat-square&logo=fastapi&logoColor=white) ![Bilingual UI](https://img.shields.io/badge/Bilingual_UI_(EN%2FBN)-334155?style=flat-square) |
-| **Tools & Workflow** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black) ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
+| **Architecture & Tools** | ![PWA](https://img.shields.io/badge/Progressive_Web_Apps-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-1E293B?style=flat-square&logo=fastapi&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black) |
 
 </details>
 
